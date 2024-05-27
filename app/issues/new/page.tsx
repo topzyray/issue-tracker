@@ -6,7 +6,7 @@ const NewIssuePage = () => {
     <div className="max-w-xl space-y-3 ">
       <TextField.Root placeholder="Title" />
       <TextArea placeholder="Description" />
-      <Button>Submit Ne Issue</Button>
+      <Button>Submit New Issue</Button>
     </div>
   );
 };
